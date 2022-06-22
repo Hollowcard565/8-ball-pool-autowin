@@ -1,7 +1,5 @@
 # 8-ball-pool-autowin
 
-I AM UPDATING IT!!!!!!
-
 A little project, i am gonna update it anytime it needs......
 
 Right now it isnt the full source i will OBF the lua :) but i promise it will be soon! <3
